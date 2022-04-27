@@ -83,7 +83,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
             height="35px" /></a>
         <a href="kr.prashantjsr@gmail.com"><img alt="Gmail"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=kr.prashantjsr@gmail.com"
-            height="35px" width = "130px"/></a>
+            height="35px" width = "130px"/>
+        </a>
     
 </p>
 
