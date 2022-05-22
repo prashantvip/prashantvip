@@ -65,8 +65,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img alt="postman"
         src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
         height="25px" />
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"
-        height="25px" />
+<!--     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"
+        height="25px" /> -->
 </p>
 
 ## Let's get connected:
