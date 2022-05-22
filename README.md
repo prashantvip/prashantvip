@@ -17,11 +17,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/prashant-kumar-jsr/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=kr.prashantjsr@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 ask me about anything, i am happy to help;
- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+ <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🛠️ Technologies and Tools I use:
 
-<p>
+<p align="left>
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         height="25px" />
